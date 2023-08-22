@@ -1,0 +1,8 @@
+https://www.davisfellowsforpeace.org/ -c4 -s0 -n -v -www.googletagmanager.com* -www.davisfellowsforpeace.org/cas* -www.davisfellowsforpeace.org/admin* -www.davisfellowsforpeace.org/search -www.middlebury.edu*
+File generated automatically on Tue, 22 Aug 2023 14:28:49, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
